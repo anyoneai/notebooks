@@ -1,0 +1,603 @@
+CustomerID,FirstName,LastName,City,State
+6192,Randi,Piedrahita,Canoga Park,CA
+5100595,Christopher,Abraham,Loma Linda,CA
+1902451,Elvis,Jauregui,Los Angeles,CA
+1906377,Jose,Mota-Sanchez,Downey,CA
+1902406,Scott  ,McCrorie,Long Beach,CA
+22445,Erin,Ravelo,Burbank,CA
+11042,Stephen,Klink,San Diego,CA
+1500181,Kari,Smith,Altadena,CA
+4300371,Edsel,Tan,Los Angeles,CA
+4301400,Corey,Smith,San Diego,CA
+701684,Shelton,Huynh,Westminster,CA
+4302023,Matteo,Gilartelli,Compton,CA
+9236,Ralph,Persky,Pasadena,CA
+1906377,Jose,Mota-Sanchez,Montebello,CA
+5172200,Andrew,McCarley ,Camarillo,CA
+5173013,Ivanna,Gantous,Los Angeles,CA
+1500181,Kari,Smith,Los Angeles,CA
+1905150,Mark,Wollman,Oxnard,CA
+4302052,Michelle,Tuell,Long Beach,CA
+5370538,Samantha ,Cosio,South Gate,CA
+4300438,Rhea,Somosot,Los Angeles,CA
+1907428,Josue,Quijada,Huntington Park,CA
+5370863,Angel,Marin,Chino,CA
+5173966,Connor,Park,Tempe,AZ
+5768,Leonard,Lightfoot,Burbank,CA
+1900610,Scott,McMurray,Hayward,CA
+4300254,Sarah,Kirschner,Bakersfield,CA
+5100330,Rosaline,Zhang,Los Angeles,CA
+1904538,Terry,Stinson,Valley Center,CA
+902251,Mary,Galvan,Walnut,CA
+1500339,Robert,Megerdichian,Canyon Country,CA
+1909384,Maria,Rocha,Burbank,CA
+5172086,Khalil,Musleh,Anaheim,CA
+1904932,Desirea,Sloan,San Diego,CA
+5370771,Prince,Zapata,Topanga,CA
+5370253,Astrid,Roelants,Los Angeles,CA
+5370896,Béatrice,Vojnar,Marina Del Rey,CA
+5173881,Faith,Cho,Los Angeles,CA
+5173981,Hector,Harold,Los Angeles,CA
+900635,Antonio,Reyes,Pomona,CA
+5971,Craig,Thompson,Vista,CA
+5774,Mary,Scates Johnson,Upland,CA
+5955,Merrily,Morris,Vista,CA
+8462,Miguel,Campos,Los Angeles,CA
+5053,Doe,Harris,Los Angeles,CA
+2300276,Jessy,Tzarax,Los Angeles,CA
+5889,Stephen,Cohn,Venice,CA
+5101470,George,Martinez,Port Hueneme,CA
+1909705,Kevin,Sullivan,Reseda,CA
+5172982,Erika,Carreon,Altadena,CA
+5173868,Geneva,McMahon,Bakersfield,CA
+5173800,Angelina,Montes,Reseda,CA
+5173885,Steven,Mopsikoff,Hawthorne,CA
+4302129,Carla,Tudela,North Hollywood,CA
+5174054,Alicia,Garcia,Pasadena,CA
+900590,Christina,Coffey,Los Angeles,CA
+5370557,Guchul,Kim,Los Angeles,CA
+5173686,Jose Luis,Gonzalez,West Covina,CA
+5572,Todd,Johnson,Rancho Mirage,CA
+5371026,DR. Marina,Banik,Montrose,CA
+5370673,Tyler,Valen,Los Angeles,CA
+5173982,Teale,Hatheway,Los Angeles,CA
+5173648,Melba,Newhouse,Alta Loma,CA
+5370404,Amanda,Padilla,Downey,CA
+5370527,Patrick,Spillman,Pasadena,CA
+5370986,Elizabeth,Hillard,Las Vegas,NV
+5370856,Stephan,Brovko,Calabasas,CA
+902503,Miguel ,Gomez,Fresno,CA
+903743,Carmen,Robertson,Temple City,CA
+7553,Al,Hodgson,Garden Grove,CA
+5101829,Mariano,Ambulo,La Puente,CA
+4301487,Manik Lal,Shrestha,Norwalk,CA
+5393076,Jennifer,Welsh,San Diego,CA
+1903965,Christina,Ojeda,Riverside,CA
+5415323,Miles,Thompson,San Juan Capistrano,CA
+1907925,Jordan,McMahon,Sierra Madre,CA
+4300081,Richard,Halverson,Mariana,FL
+5370298,Alma,Perez,Oxnard,CA
+5370969,David,Hester,Santa Ana,CA
+5371016,Conner,Gressitt,San Diego,CA
+5415122,Dorothy,Warren,Desert Hot Springs,CA
+5078,Barbara,Jannette,Las Vegas,NV
+1904932,Desirea,Sloan,San Clemente,CA
+5173872,Antonio,Hernandez,San Gabriel,CA
+5370196,Andrew,Courtis,Anaheim,CA
+6194,Lorraine,Irwin,Canyon Country,CA
+900590,Christina,Coffey,Valley Village,CA
+5370422,Emma,Davidson-Dillon,Los Angeles,CA
+5173650,Sergio,Tavares,Los Angeles,CA
+5415114,Adriana,Gonzales,Redondo Beach,CA
+5972,Paul,Freeman,Hawthorne,CA
+5415162,Terah,Wicker,Reseda,CA
+5415228,Kimberly,Kulka,Los Angeles,CA
+5572,Todd,Johnson,Encinitas,CA
+5053,Doe,Harris,North Hollywood,CA
+5053,Doe,Harris,Canoga Park              ,CA           
+1901469,Marneil,Mercado,El Monte,CA
+5774,Mary,Scates Johnson,Monrovia                 ,CA           
+701684,Shelton,Huynh,Anaheim,CA
+900569,Judith,Spizer,Sequim,WA
+1902451,Elvis,Jauregui,South Gate,CA
+7639,Blake,Coomb,Buena Park,CA
+8091,Anne,Jackson,Fontana,CA
+5173998,Charles,Udoma,Paramount,CA
+5370786,Kathryn,Yi,Temple City,CA
+1500339,Robert,Megerdichian,San Gabriel,CA
+703330,Jose,Guzman,Downey,CA
+4300670,Jina,Chang,Diamond Bar,CA
+5945,Pam,Hadley,Manchester,NH
+4301059,Natalie,Demotte,Los Angeles,CA
+5463, Freddy,Zambrana,La Habra,CA
+5370200,Thomas,Macias,Woodland Hills,CA
+5370247,Sherry,Pillarella,Orange,CA
+5431,Jorge,Soto,Huntington Park,CA           
+5227,Linda,Yount,Maywood,CA
+4300754,Franco,Lanzi,El Segundo,CA
+5370388,Sara,Chin,Huntington Beach,CA
+701258,Mark ,Williams,North Palm Springs,CA
+1904821,Liz,Zam,Buena Park,CA
+5415279,Dawn,Schneider,Agoura Hills,CA
+5415211,Tristan,Ferguson,Los Angeles,CA
+5415400,Giselle,Villela,Canoga Park,CA
+5415391,Diana,Munoz,Montebello,CA
+5415361,Jason,Shao,Los Angeles,CA
+5415384,Marty,Reyes,Winnetka,CA
+5415409,Tamecka,Smith,Victorville,CA
+5415411,Teresa,Pante,Los Angeles,CA
+1903794,Rhianna,Tycholis,Pasadena,CA
+5415445,Joseph,Highshoe,Los Angeles,CA
+5172200,Andrew,McCarley ,Boise,ID
+5415461,Isiah,Molina,Los Angeles,CA
+5415466,Yusuf,Ozekici,Marina Del Rey,CA
+5415452,Gaby,Arroyo,Pasadena,CA
+5415502,Geovanny,Espinoza,Claremont,CA
+5415329,Amir,Azizi,North Hollywood,CA
+5415395,Melissa,Choi,Los Angeles,CA
+1908941,Cesar,Perez,San Fernando,CA
+5370504,Brian ,Rios,West Covina,CA
+1909384,Maria,Rocha,Canyon County,CA
+1900610,Scott,McMurray,Pleasant Hills,CA
+4301179,Janette,Vong,Buena Park,CA
+5014,Teresa,Ascolese,Santa Barbara,CA
+703330,Jose,Guzman,Riverside,CA
+1907812,Mireille,Trevare,Rancho Palos Verdes,CA
+1906528,Michael,Schaffner,Oak Park,CA
+6177,Elizabeth,McDermott,Costa Mesa,CA
+9387,Mohan,Nure,Costa Mesa,CA
+701258,Mark ,Williams,Palm Springs,CA
+1903127,Ralph,Picon,Whittier,CA
+1905606,Brenda,Hamilton,Inglewood,CA
+2300256,George ,Mukora,Riverside,CA
+5172092,Michelle,Khachadoorian,Sunland,CA
+4301147,Vilma,Pimentel,Mission Hills,CA
+1909384,Maria,Rocha,Redondo Beach,CA
+5172728,Maria,Arguelles ,Monterey Park,CA
+700331,Perry,Kressh,Sherman Oaks,CA
+1907770,Garret,Miller,Altadena,CA
+4302023,Matteo,Gilartelli,Los Angeles,CA
+5101506,Julianne,Hall,Van Nuys,CA
+3500018,Wayne,Gunther,Los Angeles,CA
+5776,Zeferino,Heredia,Santa Ana,CA
+5076,Nicki,Huard,Palmdale,CA
+5808,Stanley,Key,Los Angeles,CA
+5901,Jila Miandoab,Maknouni,Los Angeles,CA
+1906350,Carrie,Dragt,Durango,CO
+5701,Aaron,Seville-Douglas,Studio City,CA
+4301198,Hipolito,Cisneros,Altadena,CA
+5172534,Vicente,Galindo,Los Angeles,CA
+5173438,April,Rivera Marmol ,Alhambra,CA
+5173013,Ivanna,Gantous,Covina,CA
+703136,Sean,Olson,Huntington Beach,CA
+5172443,Brandon,Divas,Los Angeles,CA
+703804,Walter,Canizales,Los Angeles,CA
+5370110,Sachiko,Lee,Los Angeles,CA
+5173856,Pocholo Luis,De Guia,San Diego,CA
+1905938,JJ,Weltsch,Stevenson Ranch,CA
+4700094,Jeff ,Randall,Studio City,CA
+1900588,Gayle,Harbor,Santa Monica,CA
+6131,Beverley,Standing,Pasadena,CA
+902639,John ,Sanderford,Burbank,CA
+7901,Juzo,Hisaoka,Williams,AZ
+703561,Anthony,Orona,Los Angeles,CA
+1909346,Monica Ofelia,Rodriguez Lemos,Downey,CA
+5173073,Trenecca ,Jones,Ontario,CA
+1905938,JJ,Weltsch,Simi Valley,CA
+4301117,Natalie,Mumford,Newport Beach,CA
+5101127,Michael,Hendrix,West Hollywood,CA
+5173927,Jackelyn,Zamora,Hacienda Heights,CA
+5173962,Catina,Ray,Inglewood,CA
+4301117,Natalie,Mumford,Long Beach,CA
+5173498,Tristan,Wildey,Arroyo Grande,CA
+5173196,Kaohai ,Yan,Rowland Heights,CA
+5370196,Andrew,Courtis,San Pedro,CA
+5173788,Jeff,McLean,Los Angeles,CA
+5370101,Maria De Jesus,Sanchez,Los Angeles,CA
+5370251,Jose,Tafolla,Pico Rivera,CA
+5174063,Albert,Rojas,Los Angeles,CA
+5371053,Khureltsetseg,Sainbaatar,North Hollywood,CA
+5370211,Kimberly,DePland,Torrance,CA
+5370268,Valerie,Rodriguez,West Covina,CA
+5370647,Jadira,Orozco,Canoga Park,CA
+900258,Bully,Nimaga,Los Angeles,CA
+5756,Edna,Fabbro,Los Angeles,CA
+1500569,Cecilio,Garcia,El Monte,Ca
+4300858,Diana,Atkisson,Lawndale,CA
+4301696,Rachel,Vrbka,Los Angeles,CA
+5100834,Isabel,Pulido,Long Beach,CA
+5100984,Fransico,Vega,Pharr,TX
+700294,Simon,Kovelman,Los Angeles,CA
+5172598,Emma,Puno,Pasadena,CA
+5173018,Vincent,Soliz ,Long Beach,CA
+4301159,Rajendra,Bagale,El Monte,CA
+5173569,Alicia,Sarraute,Camarillo,CA
+5173135,Marco ,Trejo ,Downey,CA
+5173901,Natalie,Lopez,Bloomington,CA
+5173018,Vincent,Soliz ,Los Angeles,CA
+5174004,John,Harrison,Los Angeles,CA
+5370706,Katrina,Parkinson,Henderson,NV
+1904527,Carolyn,Hoong,Moorpark,CA
+5227,Linda,Yount,Ventura,CA
+5173895,Giancarlo,Franco,Los Angeles,CA
+5370317,Valerie ,Gaytan,Huntington Beach,CA
+5370216,Iliana,Londiol,South Gate,CA
+5370985,Gabriela ,Vargas,Los Angeles,CA
+5370163,Alessandra,Mortellaro,Lawndale,CA
+5370983,Michael,Maye,Pasadena,CA
+5415089,Isabelle,Bres,Burbank,CA
+4301487,Manik Lal,Shrestha,Artesia,CA
+5415171,Dena,Brummer,Pasadena,CA
+903743,Carmen,Robertson,Los Angeles,CA
+701419,Milton,Ortega,Beverly Hills,CA
+5078,Barbara,Jannette,Camarillo                ,CA           
+5370278,Brittany,Mathewson,North Hollywood,CA
+5370719,James,Myhre,Yucaipa,CA
+5173938,Eltidio,Reyna,Compton,CA
+701684,Shelton,Huynh,Garden Grove,CA
+5370142,Junecheol,Cho,Los Angeles,CA
+5463, Freddy,Zambrana,Paramount,CA
+1907925,Jordan,McMahon,Pasadena,CA
+4301217,Maria,Quintana,Long Beach,CA
+5370378,Amalia,Diaz,San Ysidro,CA
+20850,Marcy,Gonzalez,Los Angeles,CA
+1908934,Sara,Garmon,Santa Fe,NM
+9387,Mohan,Nure,Orange,CA
+6177,Elizabeth,McDermott,Orange,CA
+6177,Elizabeth,McDermott,Laguna Niguel,CA
+5370458,Alyssa,Velis,Los Angeles,CA
+5370474,Andie,Gechtman,Los Angeles,CA
+5100785,Yoona,Oh,Downey,CA
+5371026,DR. Marina,Banik,Los Angeles,CA
+5415113,Kelsey,Mather,Westlake Village,CA
+7812,Andre,Tabak,Los Angeles,CA
+5370757,Michelle,Edison,Westminster,CA
+4300695,Diane,Gatza,Torrance,CA
+5463, Freddy,Zambrana,Lake Elsinore,CA
+4301117,Natalie,Mumford,Santa Cruz,CA
+700771,Cida ,Guerra,South El Monte,CA
+1903794,Rhianna,Tycholis,Fountain Valley,CA
+1905150,Mark,Wollman,Studio City,CA
+902139,Ernie,Previch,Capistrano Beach,CA
+5972,Paul,Freeman,Manhattan Beach          ,CA           
+10986,Bill,Doggett,Los Angeles,CA
+10986,Bill,Doggett,Oakland,CA
+1904538,Terry,Stinson,Escondido,CA
+703330,Jose,Guzman,Norwalk,CA
+5415331,Teagan,Giffin,Santa Barbara,CA
+5415402,Phyllisa,Lozano,Pico Rivera,CA
+5415416,Paris,Mendes,Los Angeles,CA
+5173749,Abigail,Finan,San Pedro,CA
+5415434,Lucas,Ruiz,North Hollywood,CA
+902503,Miguel ,Gomez,Pomona,CA
+23898,Masao,Takarada,Los Angeles,CA
+5078,Barbara,Jannette,Henderson,NV
+5431,Jorge,Soto,Downey,CA
+1909700,Robert,Trevino,Los Angeles,CA
+4302187,Diana,Nicholls,Sylmar,CA
+5430,James,Riley,Fresno,CA
+701419,Milton,Ortega,Green Valley,AZ
+5100812,John,Abraham,Glendora,CA
+5814,Robert,McNellis,Los Angeles,CA
+5782,Barbara,Mueller,San Diego,CA
+4301217,Maria,Quintana,Downey,CA
+1903078,Francisco,Carvalho,Whittier,CA
+5280,Annette,Stevenson,Los Angeles,CA
+902536,Heather,Silva,Pasadena,CA
+5100007,Paul,Hordyk,Buena Park,CA
+11481,Randy,Kemble,Chino,CA
+5464,Juan,Soto,Bell,CA
+5172859,Maria,Ruiz,Arcadia,CA
+1904133,Luis ,Montellano Luna,El Monte,CA
+5173158,Ines,Mosombite,Los Angeles,CA
+1908177,Najiba,Azimi,Rosemead,CA
+5173778,David,Juarez ,Los Angeles,CA
+4300670,Jina,Chang,Los Angeles,CA
+5173939,Lisa Marie,Martinez,Upland,CA
+900070,Donald,Wright,Huntington Beach,CA
+1904479,Stuart,Smith,Los Angeles,CA
+23107,David,Resnick,Las Vegas,NV
+1500028,Rachelle,Harbison-Michel,Lakewood,CA
+1907160,Mohamed,Drame,Los Angeles,CA
+1904529,Elizabeth,Gyerman,San Pedro,CA
+5616,Francisco,George,Los Angeles,CA
+5945,Pam,Hadley,San Pedro,CA
+1904438,Paul,Montalvo,Palmdale,CA
+5126048,Renee,Sands,Los Angeles,CA
+5172376,James,Gigliotti,El Cajon,CA
+5172601,Melissa ,Perez,Los Angeles,CA
+5172644,Martha,Bernabe,Van Nuys,CA
+5172760,Winston ,Scott ,Imperial Beach,CA
+901063,Dermot,Begley,Altadena,CA
+22827,Joe,Rockwell,Santa Barbara,CA
+5370315,Erin,Montgomery,Moorpark,CA
+5100779,Daniel,Minnick,Emeryville,CA
+4301968,Thande,Htwe,Monterey Park,CA
+20850,Marcy,Gonzalez,Whittier,CA
+5100363,Lindsey,Zilliox,San Bernardino,CA
+1905150,Mark,Wollman,Ventura,CA
+900635,Antonio,Reyes,Downey,CA
+5424,Lynne A.,Ciotti Parton,Torrance,CA
+5173506,Joseph,Sampson,Canoga Park,CA
+1903426,Edward,Cervantes,Sun City,AZ
+5172786,Michael,Shaller,San Dimas,CA
+1905380,Rosa,Diazgomez,Downey,CA
+20532,Lourdes,Ramirez,Goleta,CA
+5415325,Robert,Nazaretyan,Glendale,CA
+1909369,Sophie,Labonte,Glendale,CA
+5172284,Joel,Dominguez ,Chino,CA
+900569,Judith,Spizer,Encino,CA
+5173287,Jennifer,Oquinn,Palmdale,CA
+5100330,Rosaline,Zhang,Alhambra,CA
+5174021,Mariely,Galindo,Los Angeles,CA
+5370863,Angel,Marin,Mira Loma,CA
+5172760,Winston ,Scott ,San Diego,CA
+5370134,Darwin,Tindan,San Diego,CA
+10986,Bill,Doggett,Bakersfield,CA
+5100185,Angie,Garabet,Glendora,CA
+903601,Chris,Brady,Ladera Ranch,CA
+11321,Andrew,Munana,Los Angeles,CA
+4300928,Miguel,Osorio,San Bernardino,Ca
+1907083,Jonathan,Gamino,Cathedral City,CA
+5172365,Nancy,Gonzalez,Los Angeles,CA
+4301362,Andrew,Garcia,El Monte,CA
+5172799,Jamie,Westfall ,Los Angeles,CA
+7812,Andre,Tabak,Tujunga,CA
+5173918,Cecilia,Quintero,Huntington Park,CA
+5173800,Angelina,Montes,Woodland Hills,CA
+5173969,Miguel,Gomez,Los Angeles,CA
+5100785,Yoona,Oh,Los Angeles,CA
+5370205,Monica,Hsu,Canoga Park,CA
+5173783,Elena,Ringgold ,Gilbert,AZ
+4301362,Andrew,Garcia,Oregon City,OR
+5370415,Tristan,Saggese,Carlsbad,CA
+5172656,Somerset ,Ruiz ,Canoga Park,CA
+5173842,Anthony,Gomez,Thousand Oaks,CA
+5174027,Long,Huynh,El Monte,CA
+5370482,Valentina,Hanley,Seal Beach,CA
+1901046,Reginald,Samilin,La Mirada,CA
+5370547,Alan,Abrams,Phoenix,AZ
+5370602,Jasleen,Vital,Los Angeles,CA
+5415249,Colleen,Coffin,Aliso Viejo,CA
+5370846,Desiree,Womack,Glendale,CA
+5173904,Charles,Vorachard,Buena Park,CA
+5370655,Elias,Abuel,San Dimas,CA
+5370630,Alice,Xu,Beverly Hills,CA
+5415141,Emma,Miller,Riverside,CA
+5415175,Jeannae,Munoz,Whittier,CA
+5415182,Ronnie,Newsome,Sun City,CA
+1904886,Alice,Allen,Pasadena,CA
+901786,Eduardo,Belloso,Los Angeles,CA
+5173844,Tiffany,Haslacker,Long Beach,CA
+5370649,Eric,Marin,Chula Vista,CA
+23898,Masao,Takarada,Fresno,CA
+902536,Heather,Silva,Diamond Bar,CA
+1904133,Luis ,Montellano Luna,Temple City,CA
+5173877,Jordan,Sierra,South Gate,CA
+5370884,Nicole,Angelo,Los Angeles,CA
+700771,Cida ,Guerra,Riverside,CA
+902139,Ernie,Previch,West Covina,CA
+703804,Walter,Canizales,Calabasas,CA
+5370475,Roxy,Abrishamchian,Los Angeles,CA
+5173650,Sergio,Tavares,Camarillo,CA
+5126069,Susie ,Shaughnessy ,Manhattan Beach,CA
+5370758,Xiaoyu,Xiao,El Monte,CA
+10986,Bill,Doggett,San Francisco,CA
+1907428,Josue,Quijada,Los Angeles,CA
+1907812,Mireille,Trevare,Los Angeles,CA
+4300754,Franco,Lanzi,Hawthorne,CA
+5945,Pam,Hadley,Alhambra,CA
+23898,Masao,Takarada,Long Beach,CA
+700771,Cida ,Guerra,Covine,CA
+901063,Dermot,Begley,Duarte,CA
+1907141,Kristen,Smith,Monrovia,CA
+5415286,Jonathan,Barretto,Pacifica,CA
+5415427,Kacie,Simpson,Chatsworth,CA
+5415436,Genevieve,Van Dam,Burbank,CA
+5415443,Isabel,Shields,Ojai,CA
+701419,Milton,Ortega,Marina Del Rey,CA
+5415407,Luiza,Medina,Visalia,CA
+5415422,Adam,Navarro,Corona,CA
+5415424,Paula,Cruz-Bonde,La Habra,CA
+5415456,Raquel,Alvarado,Los Angeles,CA
+5415457,Shawn,Berina,Tarzana,CA
+5415472,Joseph,VanDyke,Los Angeles,CA
+5370200,Thomas,Macias,Perris,CA
+4301117,Natalie,Mumford,Santa Ana,CA
+5415470,Kerwin,Burns,Santa Clarita,CA
+5415484,Arely,Briseno,Whittier,CA
+5415486,Jillian,Lay,Canyon Country,CA
+6194,Lorraine,Irwin,Acton,CA
+8091,Anne,Jackson,Redlands,CA
+5365,Richard,Machtolff,Anaheim,CA
+7639,Blake,Coomb,Anaheim,CA
+6196,Cecilia,Resendez,Valley Village,CA
+8259,Josh,Zimber,Long Beach,CA
+6144,Roger,Handy,Los Angeles,CA
+5100779,Daniel,Minnick,Pasadena,CA
+1901506,Gerald,Simpson,Los Angeles,CA
+19096,Joe,Corosu,Palm Desert,CA
+2300266,Josh,Weisman,West Hollywood,CA
+5710,Samuel,Tafolla,Downey,CA
+5172086,Khalil,Musleh,Los Angeles,CA
+902139,Ernie,Previch,Upland,CA
+5173415,Max,Ortiz,Ojai,CA
+700771,Cida ,Guerra,Covina,CA
+1900709,Shaheen,Plunier,Claremont,CA
+5370671,Maria,Felix,Long Beach,CA
+703804,Walter,Canizales,La Puente,CA
+4302023,Matteo,Gilartelli,Glendale,CA
+5126060,Behzad,Haghiri,Woodland Hills,CA
+4300295,Erin,Powell,Los Angeles,CA
+9612,Diana,Redburn,Oxnard,CA
+5172337,Jae Zee ,Roth Strong ,Altadena,CA
+1908934,Sara,Garmon,Tesuque,NM
+4300840,Yousof,Noorsher,Santa Barbara,CA
+900329,Hector,Gomez,Los Angeles,CA
+5172487,Artem ,Emelianov ,Los Angeles,CA
+4700014,Kenneth,Jones,Long Beach,CA
+5100605,Simona,Sabo,Los Angeles,CA
+900879,Keiji,Koyabu,Los Angeles,CA
+4301885,Abdul,Qureshi,Los Angeles,CA
+5100721,Victor,Kartounian,Manhattan Beach,CA
+5172133,Jeremiah ,Hunter ,Denver,CO
+5101748,Donna,Sutton,Stanton,CA
+5068,Maureen,Amato Mayes,Santa Barbara,CA
+1907259,Rosa,Herron,Rancho Cucamonga,CA
+1904400,Salvador G,Ramirez,Altadena,CA
+20471,Janice,Matsumoto,Gardena,CA
+5446,Tom,Ishimaru,Torrance,CA
+4300081,Richard,Halverson,Los Angeles,CA
+1900805,Tereso,Sandoval,Los Angeles,CA
+5101829,Mariano,Ambulo,West Covina,CA
+4301100,George,Castrinos,Los Angeles,CA
+5172491,Leon,Luu,Torrance,CA
+4300081,Richard,Halverson,Crestline,CA
+3900068,Jessica,Augustine,Los Angeles,CA
+5463, Freddy,Zambrana,Murrieta,CA
+5946,Mark,Young,Los Angeles,CA
+5172908,Julie,Kartalian ,Studio City,CA
+5173893,Jasmine,Church,Los Angeles,CA
+5172643,Nicole,Ortiz,Pasadena,CA
+5370086,Aida,Estrada,Long Beach,CA
+5173498,Tristan,Wildey,San Luis Obispo,CA
+5370111,Zoe,Martsolf,Los Angeles,CA
+5370159,Jade,Estrada,Downey,CA
+5173989,James,Markel,Newport Beach,CA
+1901469,Marneil,Mercado,Temple City,CA
+5572,Todd,Johnson,San Diego,CA
+5721,Janet,Hyatt,Yucaipa,CA
+5101304,Emanuel,Torres,Las Vegas,NV
+4301827,Hector,Lopez,Cypress,CA
+14564,Louis,Straser,La Crescenta,CA
+5172865,Christa,Pappenscheller,Indio,CA
+5172680,Frances,Marquez,Oxnard,CA
+5100984,Fransico,Vega,Monterey Park,CA
+5370173,Jared,Gholston,Oceanside,CA
+11321,Andrew,Munana,Santa Fe,NM
+5370446,Brooke,Ferraro,Solana Beach,CA
+5370378,Amalia,Diaz,Chula Vista,CA
+4301400,Corey,Smith,Los Angeles,CA
+5371030,Angela,Casey,Los Angeles,CA
+5173938,Eltidio,Reyna,Paramount,CA
+5173613,Arvin,Madlambayan,Lake Elsinore,CA
+5173749,Abigail,Finan,Riveview,FL
+1909369,Sophie,Labonte,San Jose,CA
+5173928,Sean,Knibb,Venice,CA
+5463, Freddy,Zambrana,Whittier,CA
+1907925,Jordan,McMahon,Altadena,CA
+5173875,Sara,Dunne,Los Angeles,CA
+5370599,Valeria,Morales,West Covina,CA
+20471,Janice,Matsumoto,Torrance,CA
+8404,Maria,Valenzuela,Fontana,CA
+7901,Juzo,Hisaoka,Los Angeles,CA
+5446,Tom,Ishimaru,Redondo Beach,CA
+5370415,Tristan,Saggese,Culver City,CA
+8259,Josh,Zimber,San Diego,CA
+1900610,Scott,McMurray,Pleasant Hill,CA
+5370329,Shoji,Ochiai,Los Angeles,CA
+1909384,Maria,Rocha,Canyon Country,CA
+5100834,Isabel,Pulido,San Juan Capistrano,CA
+903601,Chris,Brady,Salt Lake City,UT
+10986,Bill,Doggett,Button Willow,CA
+5370347,Melissa,Barajas,Los Angeles,CA
+5370163,Alessandra,Mortellaro,North Hollywood,CA
+4301885,Abdul,Qureshi,Inglewood,CA
+23107,David,Resnick,Denver,CO
+1909369,Sophie,Labonte,Santa Cruz,CA
+1904133,Luis ,Montellano Luna,West Covina,CA
+5431,Jorge,Soto,Gardena,CA
+5415350,Chris,Horan,Baldwin Park,CA
+5415420,Christine,Han,Los Angeles,CA
+5415425,Michele,Pelletier,Canoga Park,CA
+1904821,Liz,Zam,Chino Hills,CA
+5415441,Brandon,Johnson,Lake Elsinore,CA
+5415450,Lavinia,Aghakhani,Burbank,CA
+5415318,Karen,Sartorio,Los Angeles,CA
+5415468,Chauntelle,Loose,Burbank,CA
+5415477,Cherrod,Jackson,Sacramento,CA
+903601,Chris,Brady,Morgan,UT
+3900068,Jessica,Augustine,Fontana,CA
+5415337,Ezgi,Uzun,Los Angeles,CA
+5415404,Michael,Goldfarb,Los Angeles,CA
+5415405,Erika,Jonke,Los Angeles,CA
+5415423,Teja,Anderson,Beverly Hills,CA
+5173895,Giancarlo,Franco,Rosemead,CA
+5415438,Gray,Hong,Los Angeles,CA
+4301754,Lorelei,Buda,Chatsworth,CA
+5415455,Larry,John,Alta Loma,CA
+5415270,Kiersten,Wolin,Los Angeles,CA
+5415474,Julio,Ramirez,Whittier,CA
+5415428,Karen,Ortiz,Arcadia,CA
+5370111,Zoe,Martsolf,Montebello,CA
+5415433,Brandon,Najad,Woodland Hills,CA
+5415444,Edward,Rodriguez,Fort Lauderdale,FL
+5415453,Susan,Yates,Los Angeles,CA
+5415503,Alison,Rivera,South Gate,CA
+5415397,Gabriela,Arias,Santa Clarita,CA
+5415414,Tobin,Oconnor,Lancaster,CA
+5415382,Roland,Valadez,Alhambra,CA
+5415429,Bob,Marshall,Riverside,CA
+5415430,Aaron,Gonzales,Oceanside,CA
+5415198,Catherine,Paciente,Temecula,CA
+5415431,Judy,Woodward,San Jacinto,CA
+5415432,Luz,Wembes,Palmdale,CA
+5415232,Guillermo,Vazquez,Ontario,CA
+5415464,Lisa,Carrier,South El Monte,CA
+5415413,Loukas,Stelyn,Los Angeles,CA
+5415398,Natasha,Gabbayan,Beverly Hills,CA
+5415415,Vivian,Lainfiesta,Canyon Country,CA
+5415462,Patricia,McMains,Canyon County,CA
+5415463,Juvencio,Perez,San Bernardino,CA
+1904133,Luis ,Montellano Luna,La Puente,CA
+1904886,Alice,Allen,Las Vegas,NV
+5415421,Yuanyuan,Jia,Lake Forest,CA
+5415471,Kelley,Smith,Reno,NV
+4301100,George,Castrinos,Lakewood,CA
+5415401,Gabriela,Leon,Pasadena,CA
+5415410,Jeonghyun,Seok,South Pasadena,CA
+5415426,Sequoia,Roberts,Los Angeles,CA
+5415435,Susanna,Reyes,Northridge,CA
+5415478,Vanessa,Lemaistre,Los Angeles,CA
+5415451,Tarah,Kennedy,Pasadena,CA
+4300670,Jina,Chang,Helendale,CA
+4302052,Michelle,Tuell,Burbank,CA
+5415394,Barry,Connell,Chula Vista,CA
+5415458,Monica ,Balcarcel,Fontana,CA
+5415469,Robyn,Greeson,West Stockbridge,MA
+5415476,Steven,Puglisi,North Hollywood,CA
+5415498,Ayman,Youssef,Monrovia,CA
+5415499,Mariella,Rudi,Los Angeles,CA
+5415418,Rhonda,Spencer,Oceanside,CA
+5415459,Franchesca,Corcoran,Los Angeles,CA
+5415475,Ruriko,Yamada,Los Angeles,CA
+5415500,Volha,Kirilenko,San Diego,CA
+5415406,Melodie,Muggy,San Francisco,CA
+5415087,Rocio,Valdez,Walnut,CA
+5415437,Michael,Merle,Pasadena,CA
+5415440,David,Bouchat,San Marcos,CA
+5415439,Jovanny,Jimenez,Los Angeles,CA
+5415473,Darrick,Hayden,Evansville,IN
+702407,Steven,Arroyo,Los Angeles,CA
+5415285,Barry,Schoenfeld,Palm Springs,CA
+5415403,Jacqueline,Miller,Carson,CA
+5415408,Raul,Herrera,Inglewood,CA
+5415419,Juan,Castillo,Escondido,CA
+5415442,Scott,Fillmore,Bakersfield,CA
+5415460,Shayden,Schorr,Sherman Oaks,CA
+5415467,Maria,Verduzco,Diamond Bar,CA
+5415483,Victor,Zamudio,South Gate,CA
+5415485,Garrett,Babbitt,Costa Mesa,CA
+5415449,Jesseca,Muniz,Bakersfield,CA
+5415447,Fernando,Rodriguez,Canyon County,CA
+5415399,Charlene,Stephens,Sun City,CA
+5415412,Rita,Borough,Santa Clarita,CA
+5415379,Gaylord Jordan,Ferrer,Desert Hot Springs,CA
+5415362,Alan,Cruz,Canoga Park,CA
+5415446,Aaron,Alvarado,Burbank,CA
+5415448,Edgardo,Monteclaro,San Diego,CA
+5415365,Trinity,Hall Reif,Poway,CA
+5415465,Kisona,Mialoto Jr.,Lynwood,CA
+5415345,Lawrence,Zhang,Temple City,CA
+5415481,John,Hughes,Round Top,TX
+5415482,Phillip,Okonma,Los Angeles,CA
